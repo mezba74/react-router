@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Rahim Uddin",
+    "age": 20,
+    "gender": "Male",
+    "department": "Computer Science",
+    "semester": 3,
+    "gpa": 3.65,
+    "email": "rahim.uddin@example.com",
+    "phone": "+8801700000001"
+  },
+  {
+    "id": 2,
+    "name": "Karima Akter",
+    "age": 19,
+    "gender": "Female",
+    "department": "Electrical Engineering",
+    "semester": 2,
+    "gpa": 3.82,
+    "email": "karima.akter@example.com",
+    "phone": "+8801700000002"
+  },
+  {
+    "id": 3,
+    "name": "Sakib Hasan",
+    "age": 21,
+    "gender": "Male",
+    "department": "Mechanical Engineering",
+    "semester": 4,
+    "gpa": 3.40,
+    "email": "sakib.hasan@example.com",
+    "phone": "+8801700000003"
+  },
+  {
+    "id": 4,
+    "name": "Nusrat Jahan",
+    "age": 20,
+    "gender": "Female",
+    "department": "Business Administration",
+    "semester": 3,
+    "gpa": 3.91,
+    "email": "nusrat.jahan@example.com",
+    "phone": "+8801700000004"
+  },
+  {
+    "id": 5,
+    "name": "Mahin Ahmed",
+    "age": 22,
+    "gender": "Male",
+    "department": "Civil Engineering",
+    "semester": 5,
+    "gpa": 3.25,
+    "email": "mahin.ahmed@example.com",
+    "phone": "+8801700000005"
+  },
+  {
+    "id": 6,
+    "name": "Tanzila Rahman",
+    "age": 19,
+    "gender": "Female",
+    "department": "English",
+    "semester": 1,
+    "gpa": 3.75,
+    "email": "tanzila.rahman@example.com",
+    "phone": "+8801700000006"
+  },
+  {
+    "id": 7,
+    "name": "Farhan Ali",
+    "age": 23,
+    "gender": "Male",
+    "department": "Law",
+    "semester": 6,
+    "gpa": 3.10,
+    "email": "farhan.ali@example.com",
+    "phone": "+8801700000007"
+  },
+  {
+    "id": 8,
+    "name": "Mim Chowdhury",
+    "age": 21,
+    "gender": "Female",
+    "department": "Pharmacy",
+    "semester": 4,
+    "gpa": 3.55,
+    "email": "mim.chowdhury@example.com",
+    "phone": "+8801700000008"
+  },
+  {
+    "id": 9,
+    "name": "Jubayer Islam",
+    "age": 20,
+    "gender": "Male",
+    "department": "Mathematics",
+    "semester": 3,
+    "gpa": 3.60,
+    "email": "jubayer.islam@example.com",
+    "phone": "+8801700000009"
+  }
+]
